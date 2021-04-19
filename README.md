@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://komarev.com/ghpvc/?username=PoojaGPogul" alt="PoojaGPogul" />
+
 <!--
 **PoojaGPogul/PoojaGPogul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
